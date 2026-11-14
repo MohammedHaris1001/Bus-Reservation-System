@@ -1,0 +1,4 @@
+1 100 1 23  joe banglore kochi
+2 101 1 22  midh banglore andra
+3 101 2 23  indru banglore andra
+4 102 1 20  elshi banglore chennai
